@@ -21,3 +21,10 @@ nav_exclude: true
 <div class="text-blue-000">
   Detect Magic
 </div>
+
+## Portent
+
+| #              | Dice Roll |
+| :------------: | :------------- |
+| Item One       | Item Two       |
+| Item One       | Item Two       |
