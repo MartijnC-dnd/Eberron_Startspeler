@@ -18,3 +18,5 @@ Daarnaast heb je ook nog de uitgeschreven notities 'written', hier probeer ik va
 | 3  | [link](session-3-raw.md) |   |
 | 4  | [link](session-4-raw.md) |   |
 | 5  | [link](session-5-raw.md) |   |
+| 6  | [link](session-6-raw.md) |   |
+| 7  | [link](session-7-raw.md) |   |
