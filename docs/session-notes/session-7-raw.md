@@ -17,7 +17,7 @@ Long rest tot 8u -> zon komt op!
 #### Portents
 
 | #              | Dice Roll |
-| :-: | :- |
+| :: | : |
 | 1     | 13       |
 | 2       | 8       |
 
@@ -65,7 +65,7 @@ De vloer is een map! Herkenbare gebieden, komen overeen met de oude map die ik h
 6 Statues:
 
 | Beasts             | Marble |
-| - | :- |
+| - | : |
 | Dragon + Lion     | Red       |
 | Wolf + Valk       | White       |
 | Knight + Griffon       | Black       |

@@ -12,7 +12,7 @@ nav_order: 7
 #### Portents
 
 | #              | Dice Roll |
-| :-: | :- |
+| :: | : |
 | 1      | 15      |
 | 2       | 4       |
 

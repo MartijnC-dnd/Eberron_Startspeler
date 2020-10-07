@@ -61,7 +61,7 @@ Is there a stable?
 **Long Rest net buiten de stand**
 
 | # | Dice Roll |
-| :-: | :- |
+| :: | : |
 | 1 | 9 |
 | ~~2~~ | ~~2~~ |
 
@@ -214,5 +214,7 @@ We komen aan op een groot slagveld.
 Vol met lijken (halflings en elven), wapens, schileden, dinosaurussen (mounts?), paarden (mounts?) ...
 
 We zoeken naar loot, terwijl **Lily** aan het zoeken is, bewegen de lichamen rondom haar een een gigantische klauw komt op haar af!
+**Lily** wordt grappled door een van de claws.
+De carcass crab heeft zich opgericht en staat op het punt ons aan te vallen.
 
 **End of Session**
