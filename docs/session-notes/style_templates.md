@@ -22,7 +22,7 @@ nav_exclude: true
   Detect Magic
 </div>
 
-## Portent
+## Portents
 
 | #              | Dice Roll |
 | :------------: | :------------- |
