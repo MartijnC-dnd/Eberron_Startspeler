@@ -25,6 +25,12 @@ nav_exclude: true
 ## Portents
 
 | #              | Dice Roll |
-| :------------: | :------------- |
+| :-: | :- |
 | Item One       | Item Two       |
 | Item One       | Item Two       |
+
+## Rolling
+
+<div class="text-red-000">
+  Perception Roll: <Results>
+</div>
