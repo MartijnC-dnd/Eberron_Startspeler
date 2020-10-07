@@ -2,7 +2,7 @@
 layout: default
 title: Session 1 - Written
 parent: Session Notes
-nav_order: 1
+nav_exclude: true
 ---
 
 ## Session 1 @ startspeler - 01/07/2020

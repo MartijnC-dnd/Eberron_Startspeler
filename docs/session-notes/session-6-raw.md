@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Session 6 - Raw"
+title: "Session 6"
 parent: Session Notes
-nav_order: 7
+nav_order: 6
 ---
 
 ## Session 6 Raw Notes
@@ -12,7 +12,7 @@ nav_order: 7
 #### Portents
 
 | #              | Dice Roll |
-| :: | : |
+| :-: | :- |
 | 1      | 15      |
 | 2       | 4       |
 

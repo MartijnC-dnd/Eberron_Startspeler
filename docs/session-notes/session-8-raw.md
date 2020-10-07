@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Session 8 - Raw"
+title: "Session 8"
 parent: Session Notes
-nav_order: 9
+nav_order: 8
 ---
 
 ## Session 8 Raw Notes
@@ -61,7 +61,7 @@ Is there a stable?
 **Long Rest net buiten de stand**
 
 | # | Dice Roll |
-| :: | : |
+| :-: | :- |
 | 1 | 9 |
 | ~~2~~ | ~~2~~ |
 

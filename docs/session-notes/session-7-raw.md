@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Session 7 - Raw"
+title: "Session 7"
 parent: Session Notes
-nav_order: 8
+nav_order: 7
 ---
 
 ## Session 7 Raw Notes
@@ -17,7 +17,7 @@ Long rest tot 8u -> zon komt op!
 #### Portents
 
 | #              | Dice Roll |
-| :: | : |
+| :-: | :- |
 | 1     | 13       |
 | 2       | 8       |
 

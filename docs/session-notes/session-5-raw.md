@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Session 5 - Raw"
+title: "Session 5"
 parent: Session Notes
-nav_order: 6
+nav_order: 5
 ---
 
 ## Session 5 Raw Notes
@@ -46,9 +46,10 @@ Ze zoeken **Lily** en ik probeer eronder uit te komen dat ze haar niet wil verhu
 De diplomate komt ter redding en helpt ons eruit door te zeggen dat de informatie niet klopt.
 **Jonans**, de leider van de gnomes, probeert Lily haar gedachten te lezen, maar door een goede wisdom save (met advantage) kan **Jonans** niks opmaken.
 
-Portents:
-- 12
-- 1
+| #              | Dice Roll |
+| :-: | :- |
+| 1      | 12      |
+| 2       | 1       |
 
 ### Journey to Rhukaan Draal
 

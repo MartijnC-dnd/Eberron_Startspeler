@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Session 4 - Raw"
+title: "Session 4"
 parent: Session Notes
-nav_order: 5
+nav_order: 4
 ---
 
 ## Session 4 Raw Notes
@@ -116,9 +116,10 @@ Wij gaan hen helpen en wandelen buiten.
  Roll for Initiatve
 </div>
 
-Portents of the day:
-- 12
-- 10
+| #              | Dice Roll |
+| :-: | :- |
+| 1      | 12      |
+| 2       | 10       |
 
 Mist heeft effect: Niet verder dan 15 feet voor ons kunnen zien.
 

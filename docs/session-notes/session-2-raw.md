@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Session 2 - Raw"
+title: "Session 2"
 parent: Session Notes
-nav_order: 3
+nav_order: 2
 ---
 
 ## Session 2 Raw Notes
