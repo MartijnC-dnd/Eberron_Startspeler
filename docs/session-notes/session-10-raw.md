@@ -28,11 +28,11 @@ Support wing (waar we **Rorsa** gevonden hebben)
 
 #### Groen: Links Onder
 De rotator begint te draaien, we komen in een lange gang die naar een andere rotator room leid.
-[Rotator 2](#Rotator2)
+[Rotator 2](#rotator-2)
 
 ### Groen: Rechts Onder
 De rotator begint te draaien, we komen in een lange gang die naar een andere rotator room leid.
-[Rotator 3](#Rotator3)
+[Rotator 3](#rotator-3)
 
 #### Blauw: Rechts Boven
 **Rorsa** wordt onrustig, de potions liggen in de research wing.
@@ -141,13 +141,14 @@ Uit het niets komt er een Rode Keycharm aangevlogen.
 
 #### Groen : Links onder
 Terug naar de gang tussen de twee rotator rooms!
-==> Back to [Rotator 1](#Rotator1)
+==> Back to [Rotator 1](#rotator-1)
 
 ### Rotator 3
 rotator panel #3 [image](https://s3.amazonaws.com/files.d20.io/images/172154366/L_igkChTfYS_KrM95kt4VQ/med.png?1603295669)
 
 #### Rood: midden
-
+ Bij het draaien aan de keycharm horen we een klik. De kamer draait niet rond.
+ We besluiten er nog eens aan te draaien om het zo te 'resetten'.
 
 #### Paars: Links onder
 
@@ -166,3 +167,5 @@ We zien een gigantische well waar we bijna invallen.
 **End of Session**
 
 #### Groen: Links boven
+Terug naar de gang tussen de twee rotator rooms!
+==> Back to [Rotator 1](#rotator-1)
