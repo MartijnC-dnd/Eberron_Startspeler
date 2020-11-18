@@ -147,8 +147,8 @@ Terug naar de gang tussen de twee rotator rooms!
 rotator panel #3 [image](https://s3.amazonaws.com/files.d20.io/images/172154366/L_igkChTfYS_KrM95kt4VQ/med.png?1603295669)
 
 #### Rood: midden
- Bij het draaien aan de keycharm horen we een klik. De kamer draait niet rond.
- We besluiten er nog eens aan te draaien om het zo te 'resetten'.
+Bij het draaien aan de keycharm horen we een klik. De kamer draait niet rond.
+We besluiten er nog eens aan te draaien om het zo te 'resetten'.
 
 #### Paars: Links onder
 
