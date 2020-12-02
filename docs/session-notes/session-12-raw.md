@@ -317,13 +317,15 @@ Dus ze hebben daar iets mee te maken.
 **Lily** stuurt guards in burgers om te scouten.
 
 #### Quest:
+>
 Ga naar **Corranberg**, dwarsboom **Garrow**.
 Het zwaard bemachtigen zou mooi zijn.
 Andere dingen zoals plannen van **Garrow** en informatie zijn ook welkom.
 
 **Reward**
-300gp/each voor het stoppen van **Garrow**/de overhandiging
-Blade = 2x
+>
+- 300gp/each voor het stoppen van **Garrow**/de overhandiging
+- Blade = 2x
 
 Next airship naar **Corranberg** vertrekt soon.
 
@@ -351,7 +353,7 @@ Het zwaard kan de link tussen een Thrall en zijn vampire verbreken.
 </div>
 
 - 3 [Flasks of Holy Water](https://www.dndbeyond.com/equipment/holy-water-flask)
-- Wand of Light (custom)
+- [Wand of Light](https://www.dndbeyond.com/magic-items/2518437-wand-of-light)
 - Pouch:
   - 100gp
   - Letter of credit voor verblijf in de **Gold Dragon Inn** in **Corranberg**
