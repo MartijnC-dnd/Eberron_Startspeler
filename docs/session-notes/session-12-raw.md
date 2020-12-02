@@ -298,10 +298,15 @@ Een ervan is (buiten de schemas) verkocht.
 Die was in beheer door een ancient vampire onderin de city of **Sharn** (**Calderas**)
 De elf maakt via [Minor Illusion]() beelden van verschillende personen:
 - **Lucan Stellos** multiple anonymous letters, under control of **Calderas** unwillingly.
-- **Stellos** is geout en gevlucht binnen uren.
+- **Lucan** is een Thrall
+- Recruited door de **Emerald Claw**
+- Dag erna geout als een van de **Thralls** van **Calderas**
+- **Stellos** gevlucht binnen uren.
 - **Garrow**, brother Garrow, (niet ancient) vampire. Priest of the Emerald Claw. Spotted in **Corranberg**
-- **Grillshas Stellos**, zus van **Lucan**, lives in ivory towers, magically towers, laatst hier gezien in het bezit van een magic sword. (vampire blade).
-- Gisteren beide woningen doorzocht door agenten.
+- **Grilsha Stellos**, zus van **Lucan**, lives in ivory towers, magically towers, laatst hier gezien in het bezit van een magic sword. (vampire blade).
+- Gisteren beide woningen doorzocht door agenten van **Calderas**.
+- Beide zijn verdwenen (op weg naar **Corranberg**)
+- **Lucan** wil het zwaard ruilen voor de services van **Garrow**
 
 We denken dat ze on the run zijn en met **Garrow** gaan meeten om het zwaard te ruilen.
 **Nea Ir'krel** is een undarian ambassador/associates van  in **Corranberg**.
@@ -339,6 +344,7 @@ Enkel **Lily** krijgt achtergrond informatie.
 Deelt:
 De vampire blade is iets wat ze (de vampieren) vrezen.
 Dus meer een anti-vampire blade? (pun intended) - **Garret**
+Het zwaard kan de link tussen een Thrall en zijn vampire verbreken.
 
 <div class="text-green-000">
  ! Loot !
