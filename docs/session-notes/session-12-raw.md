@@ -188,9 +188,9 @@ Orwin:
 - Update zijn kaarten en atlassen, probeert die ook officieel te laten opnemen in de atlassen en boeken.
 
 <details>
-  <summary>Spoiler enkel voor **Sam**</summary>
+  <summary>> Spoiler enkel voor **Sam**</summary>
 
-  Tijdens de downtime breng ik **House d'Sivis** zoveel mogelijk op de hoogte van wat er aan de wand is allemaal en geef ik een status update over Lily. Ik wil vooral nog ten goede standing van het huis te blijven staan.
+  > Tijdens de downtime breng ik **House d'Sivis** zoveel mogelijk op de hoogte van wat er aan de wand is allemaal en geef ik een status update over Lily. Ik wil vooral nog ten goede standing van het huis te blijven staan.
 
 </details>
 
