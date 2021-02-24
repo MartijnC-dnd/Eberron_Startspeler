@@ -219,7 +219,7 @@ Vertelt ons dat ze over **Lucan** kan vertellen na het feest.
 **Rabbit** (**Callum**) komt dichter bij mij staan.
 
 **Fox** = **Varian**
-**** = **Layleen**
+**Pauw** = **Layleen**
 
 **Tiger** = Man
 **Ox** = Man
