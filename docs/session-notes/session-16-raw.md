@@ -107,6 +107,7 @@ De wachters horen ons de treinhal binnenkomen.
 Heel zwaar gevecht.
 **Tash** en **Orwin** vallen unconcious neer.
 
-**Lily** neemt onze unconcious lichamen mee naar de ambassade??? Want daar gaan we geholpen worden?
+**Lily** neemt onze unconcious lichamen mee naar de ambassade???  
+Want daar gaan we geholpen worden?
 
 **End of Session**
