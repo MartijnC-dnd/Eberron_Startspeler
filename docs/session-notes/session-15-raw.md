@@ -15,10 +15,10 @@ Om ons te helpen kwamen er allemaal gnome elemental binders van d'Sivis.
 
 Tijdens het gevecht zijn **Argo** en een elemental binder gestorven.
 
-**Lilly** heeft zware issues gehad met haar grootmoeder.
+**Lily** heeft zware issues gehad met haar grootmoeder.
 Ze is afgeknipt van het bedrijf. Niemand van het huis mag haar helpen.
 
-**Lilly** is met een dode gnome naar haar grootmoeder gegaan.
+**Lily** is met een dode gnome naar haar grootmoeder gegaan.
 Om haar te wijzen dat ze in een ivoren toren zit.
 En geen weet heeft van wat ze de andere aan doet.
 
@@ -122,10 +122,10 @@ Do you have something with feathers?
 That is way more normal!
 Feathers are all the rage.
 
-**Lilly**: mask met dark blueish feather, butterfly shaped.
+**Lily**: mask met dark blueish feather, butterfly shaped.
   Is een custom make.
 
-Pick-up voor **Garreth** en **Lilly** later tonight.
+Pick-up voor **Garreth** en **Lily** later tonight.
 
 ## Time to party! (timed event)
 
@@ -134,7 +134,7 @@ We dragen allemaal onze fancy kledij en gaan richting
 **Orwin**: Orb (focus) + Spellbook
 **Tash**: Hidden Dagger
 **Garreth**: Verstopt Rapier
-**Lilly**: Thieves Tools (focus)
+**Lily**: Thieves Tools (focus)
 
 We wandelen naar de winkelstraat, en de zon gaat stilaan onder.
 De twee pakketten liggen klaar, as promised clothes en een mask.
@@ -158,7 +158,7 @@ Hij doet het belachelijk slecht en maakt onder andere spelfouten.
 
 Beschaamd neemt hij ze niet mee naar ons.
 
-**Lilly** probeert gewoon binnen te wandelen. De guards kijken naar haar maar ze moet haar uitnodiging nog altijd laten zien.
+**Lily** probeert gewoon binnen te wandelen. De guards kijken naar haar maar ze moet haar uitnodiging nog altijd laten zien.
 Haar constructie leidt de gnome af. Maar zegt dat dit geen echte invitation is. Niet de juiste voor dit feest.
 
 Ze mag niet binnen.
@@ -178,7 +178,7 @@ En herkent het meteen dat het niet echt is.
 **Garreth** en **Orwin** gaan naar binnen.
 In een gigantische ballroom.
 
-**Lilly** overtuigd een gnome guard om haar toch binnen te laten.
+**Lily** overtuigd een gnome guard om haar toch binnen te laten.
 
 **Tash** gebruikt mind link met een guard om te doen alsof het een stem is van zijn god die zegt: "let the human pass he is important"
 
@@ -209,7 +209,7 @@ Talks too much about his personal life tot de volgende long rest.
 Servants heel chique gekleed dienen eten op.
 Ik neem er van en hang over de leuning de dancefloor in de gaten te houden.
 
-**Lilly** danst nu met een **Ram** masker.
+**Lily** danst nu met een **Ram** masker.
 
 **Ram** = de major van **Corranberg**
 

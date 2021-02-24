@@ -80,7 +80,7 @@ We komen onder aan en vinden een controle paneel.
 Er hangen everbright lanterns aan het plafond, maar die branden duidelijk minder fel dan de onze.
 
 Ik gebruik de key charm en steek hem in ee nvan de openingen op het bedieningspaneel
-De kamer roteert en **Badum** en **Lilly** vallen prone op de grond.
+De kamer roteert en **Badum** en **Lily** vallen prone op de grond.
 bedieningspaneel bevat Bruine, Groene en Blauwe keyholes.
 
 #### Rechter blauwe keyhole:
