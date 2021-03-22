@@ -9,4 +9,4 @@ nav_order: 6
 Character sheet
 {: .label }
 
-[DnDbeyond](https://www.dndbeyond.com/profile/MartijnC/characters/31318304)
+[DnDbeyond](https://ddb.ac/characters/31318304/TrbC9s)
