@@ -2,11 +2,13 @@
 layout: default
 title: "Lily Lyrreman d'Sivis"
 parent: Adventuring Party
-nav_order: 5
+nav_order: 6
 ---
 
-## Pagina voorbehouden voor Lily.
-Character sheet
-{: .label }
+# Lily Lyrreman d'Sivis
 
-[DnDbeyond](https://www.dndbeyond.com/characters/30966715)
+[DnDbeyond.com link](https://www.dndbeyond.com/characters/39397532)
+
+![full_art](img/lily.jpeg){:width="300px"}
+
+## Appearance Details

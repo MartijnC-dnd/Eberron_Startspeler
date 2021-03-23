@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Henry Terunk
+title: "Henry Terunk"
 parent: Adventuring Party
-nav_order: 4
+nav_order: 5
 ---
 
-## Pagina voorbehouden voor Henry.
-Character sheet
-{: .label }
+# Henry Terunk
 
-[DnDbeyond](https://www.dndbeyond.com/characters/34441128)
+[DnDbeyond.com link](https://www.dndbeyond.com/characters/34441128)
+
+![full_art](img/henry.png){:width="300px"}
+
+## Appearance Details

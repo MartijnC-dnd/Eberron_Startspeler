@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Galleia Hun'Gora
+title: "Galleia Hun'Gora"
 parent: Adventuring Party
 nav_order: 3
 ---
 
-## Pagina voorbehouden voor Galleia.
-Character sheet
-{: .label }
+# Galleia Hun'Gora
 
-[DnDbeyond](https://www.dndbeyond.com/characters/31165669)
+[DnDbeyond.com link](https://www.dndbeyond.com/characters/31165669)
+
+![full_art](img/galleila.jpeg){:width="300px"}
+
+## Appearance Details

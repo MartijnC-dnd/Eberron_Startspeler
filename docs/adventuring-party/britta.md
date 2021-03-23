@@ -5,8 +5,10 @@ parent: Adventuring Party
 nav_order: 2
 ---
 
-## Pagina voorbehouden voor Britta.
-Character sheet
-{: .label }
+# Britta
 
-[DnDbeyond](https://www.dndbeyond.com/characters/31966931)
+[DnDbeyond.com link](https://www.dndbeyond.com/characters/31966931)
+
+![full_art](img/britta.png){:width="300px"}
+
+## Appearance Details
