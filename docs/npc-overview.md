@@ -28,3 +28,4 @@ has_children: false
 | Caddius | Vampire | ? | Sharn, Breland | Ancient vampire lord |
 | Neya ir'krell | Human | Female | Korranberg, Zilargo | Aundarian ambassador |
 | Saergaent Dolom | Dwarf | Male | Sharn, Breland | Sharn watch |
+| Petres d’Orien | Human | Male | Korranberg, Zilargo | Leader of the Guards Trainstation |
