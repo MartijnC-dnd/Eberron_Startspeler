@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Garret
+title: "🤷 Garret"
 parent: Adventuring Party
-nav_order: 4
+nav_order: 5
 ---
 
 # Garret

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Britta
+title: "🤷 Britta"
 parent: Adventuring Party
-nav_order: 2
+nav_order: 3
 ---
 
 # Britta

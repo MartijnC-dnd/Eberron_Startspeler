@@ -2,7 +2,7 @@
 layout: default
 title: "Lily Lyrreman d'Sivis"
 parent: Adventuring Party
-nav_order: 6
+nav_order: 7
 ---
 
 # Lily Lyrreman d'Sivis

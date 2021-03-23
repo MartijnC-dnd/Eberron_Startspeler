@@ -1,13 +1,14 @@
 ---
 layout: default
-title: "💀 Badum Tsss"
+title: "💀 Argo"
 parent: Adventuring Party
-nav_order: 2
+nav_order: 1
 ---
 
-# Badum
+# Argo
 
 [DnDbeyond.com link]()
+
 
 
 ## Appearance Details

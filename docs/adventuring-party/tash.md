@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Tash Valakhad
+title: "Tash Valakhad"
 parent: Adventuring Party
-nav_order: 8
+nav_order: 9
 ---
 
 # Tash Valakhad

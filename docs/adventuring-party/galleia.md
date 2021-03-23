@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Galleia Hun'Gora"
+title: "💀 Galleia Hun'Gora"
 parent: Adventuring Party
-nav_order: 3
+nav_order: 4
 ---
 
 # Galleia Hun'Gora
