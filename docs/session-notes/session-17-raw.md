@@ -9,7 +9,7 @@ nav_order: 17
 
 ## Recap:
 
-Achtervolging van **Lucan Stellos** die met een zwaard (**Vampire Blse**) een gevecht gestart was op het bal.
+Achtervolging van **Lucan Stellos** die met een zwaard (**Vampire Blade**) een gevecht gestart was op het bal.
 
 Bij het achtervolgen in aanraking gekomen met de **Trusts**.
 
@@ -149,7 +149,7 @@ Ze spreekt me aan?
 
 Ik herken haar. (ze heeft een embleem van House d'Sivis aan)  
 **Tash** doet een poging.  
-Ik herriner me haar. (Heet **Evyn d'Sivis**)  
+Ik heriner me haar. (Heet **Evyn d'Sivis**)  
 Jonge scribe, heeft vroeger nog, toe nik in Corranbergh zt heeft ze lessen van mij gevolgd om cartography te volgen.  
 Ze is aangesteld tot de nieuwe main cartographer van Sharn.  
 Ze moet de stad in kaart brengen.  
@@ -278,5 +278,9 @@ We verstoppen ons voor **Garrow**.
 Hij krijgt die deur wel open?
 
 Thrall = Slaaf van vampier?
+
+- Heeft **Lucan** zijn thrall zijn al ongedaan gemaakt?
+- Is **Lucan** sterker dan **Garrow**?
+- Wil **Garrow** een ally?
 
 **End of Session**
