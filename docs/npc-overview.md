@@ -14,7 +14,7 @@ has_children: false
 | Zorlan d'Cannith | Human | Male |  Korth, Karnath | Leader of Cannith East |
 | Elaydren d'vown d'cannith | Human | Female | Sharn, Breland | Agent of Cannith West |
 | Lord of Blades | Warforged | / | Mournlands | Leader of the warforged resistance |
-| Garrow | Vampire | Male | Persumed | Korranberg, Zilargo | Emerald Claw opperative |
+| Garrow | Vampire | Male (Persumed) | Korranberg, Zilargo | Emerald Claw opperative |
 | Varian d'cannith | Human | Male | Airship | Agent of Cannith south |
 | Linene Greywind | Human | Female | Airship | Varian's girlfriend |
 | Calum Merrigold d'cannith | Human | Male | Airship | Varian's guard |

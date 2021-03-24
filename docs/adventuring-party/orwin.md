@@ -19,6 +19,17 @@ Raven (**Tal**)
 
 ## Appearance Details
 
+- Alignment: Lawful neutral
+- Gender: Male
+- Eyes: Blue
+- Size: Small
+- Height: 2’17” (104 cm)
+- Faith: Sovereign Host of Law and Lore (Aureon)
+- Hair: Long Grey, full grey beard
+- Skin: Pale
+- Age: 211
+- Weight: 35lb. (15.87kg)
+- Home: [Korranberg, Zilargo](https://eberron.fandom.com/wiki/Korranberg)
 
 ## Profession
 
