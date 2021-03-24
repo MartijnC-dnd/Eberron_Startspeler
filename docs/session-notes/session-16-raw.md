@@ -5,9 +5,9 @@ parent: Session Notes
 nav_order: 16
 ---
 
-## Session 16 Raw Notes
+# Session 16 Raw Notes
 
-### Recap:
+## Recap:
 
 We zijn naar een bal gegaan en daar hebben we weinig/niks geleerd.
 Daarna is er een zwaard getrokken.

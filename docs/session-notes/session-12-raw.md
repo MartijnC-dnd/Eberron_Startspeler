@@ -5,14 +5,14 @@ parent: Session Notes
 nav_order: 12
 ---
 
-## Session 12 Raw Notes
+# Session 12 Raw Notes
 
 | #              | Dice Roll |
 | :-: | :- |
 | 1       | 6       |
 | 2      | 12       |
 
-### Scavenger Outpost
+## Scavenger Outpost
 
 **Lily** wil rechtstreeks naar **Laura**.
 Eerst polsen of ze haar moeder (lichaam) terug wil.
@@ -48,7 +48,7 @@ We vragen rond in de stad of er iemand naar de stad moet gaan en ons wil meeneme
 Een paar zijn aan het praten om naar **Rukaan Draal** te gaan.
 Niet te voet dat duurt veel te lang, we nemen de landcarts in **Lyrenton** (noordelijk).
 
-### Arrival in Lyrenton
+## Arrival in Lyrenton
 
 De mensen met wie we samen getraveld hebben wandelen richting het hoofdloket om zich aan te melden voor de reis naar **Rukaan Draal**
 
@@ -85,7 +85,7 @@ Terwijl ik ze vastheb, voel ik een kracht uitstralen.
 
 --> Wand of Magic Missle
 
-### Arrival in Rukaan Draal
+## Arrival in Rukaan Draal
 
 We gaan naar **Henry** zijn huis.
 Die is jammer genoeg niet thuis.
@@ -178,9 +178,9 @@ Ze zal ons de volgende dag zien om richting **Sharn** te gaan.
 
 Creationpatern en Death Machine lijken verband te hebben, maar we zijn niet zeker of het zo is.
 
-### Sharn
+## Sharn
 
-#### Tijdens downtime
+### Tijdens downtime
 
 Lily:
 - Elemental binding
@@ -257,7 +257,7 @@ Bij het horen van de [Magic Mouth](https://www.dndbeyond.com/spells/magic-mouth)
 
 Ok, we begrijpen het probleem en dat je niet blij bent, maar dit is een beslissing van hogerop. Die kunnen we niet terugdraaien sinds ze nu al in **Corranberg** is.
 
-### Meeting with lady Elaidrin
+## Meeting with lady Elaidrin
 
 **Orwin** wandelt de **Swordpoint** tavern binnen.
 Gelegen in de politieburelen. Veel politieagenten uit uniform.
@@ -316,7 +316,7 @@ We denken dat ze on the run zijn en met **Garrow** gaan meeten om het zwaard te 
 Dus ze hebben daar iets mee te maken.
 **Lily** stuurt guards in burgers om te scouten.
 
-#### Quest:
+### Quest:
 >
 Ga naar **Corranberg**, dwarsboom **Garrow**.
 Het zwaard bemachtigen zou mooi zijn.

@@ -5,9 +5,9 @@ parent: Session Notes
 nav_exclude: true
 ---
 
-## Session 1 @ startspeler - 01/07/2020
+# Session 1 @ startspeler - 01/07/2020
 
-### Another day, waiting for artefacts
+## Another day, waiting for artefacts
 
 **Orwin** staat in de universiteit van **Sharn**, te wachten to er een nieuw artefact beschikbaar wordt gesteld.
 Teleurgesteld moet hij afdruipen en loopt hij, letterlijk een warforged tegen het lijf. Meet **Zap**. Ik bots letterlijk tegen deze imposante warforged tegen het lijf, een bronze warforged met een blue elemental core? Dit heb ik nog nooit gezien. Lijkt m geen standaard model te zijn.

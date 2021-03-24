@@ -5,7 +5,7 @@ parent: Session Notes
 nav_order: 4
 ---
 
-## Session 4 Raw Notes
+# Session 4 Raw Notes
 
 We bevinden ons op **The Dragon's Breath**, de kapitein **Eldra d'Lyandar** spreekt ons toe.
 "Welkom op mijn schip, ik vaar al 25 jaar. Het is een van de eerste schepen van huis d'Lyandar.
@@ -13,7 +13,7 @@ Enkel nog maar "veilige" reizen gemaakt."
 
 We varen door _krakens vale_?
 
-### Journey at sea
+## Journey at sea
 
 De passagiers worden gesplitst in twee groepen, een bovenste en onderste kajuit.
 
@@ -59,7 +59,7 @@ Heeft een afspraak met een gnome die aan mij doet denken. (een keer om de 50 jaa
 Kapitein moet lachen omdat niemand haar kan verslaan in "conquerer".
 Tim daagt haar uit.
 
-#### Conquerer mini-game rules
+### Conquerer mini-game rules
 
 Commander moet een manier vinden om naar de andere kant van het bord te infiltreren.
 
@@ -106,7 +106,7 @@ Heel complex.
 Heeft links met de **Blood of Vol**, ze gaan daar extreem in op.
 Ze willen echt undead worden en onsterfelijkheid bereiken.
 
-### When the mist rolls in
+## When the mist rolls in
 Tijdens de nacht, terwijl we aan het slapen zijn komt een matroos onze kamer binnengestormd en roept dat we "under attack" zijn.
 We moeten schuilen, zij zullen het handelen.
 

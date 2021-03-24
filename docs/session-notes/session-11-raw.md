@@ -5,14 +5,14 @@ parent: Session Notes
 nav_order: 11
 ---
 
-## Session 11 Raw Notes
+# Session 11 Raw Notes
 
 | #              | Dice Roll |
 | :-: | :- |
 | 1       | 18       |
 | 2      | 17       |
 
-### Long way down the rabbit hole
+## Long way down the rabbit hole
 
 **Galleia** valt in een body of water.
 Lies unconcious in het water.
@@ -20,15 +20,15 @@ Lies unconcious in het water.
 Levitate haar naar boven.
 Na enig fumble werk krijgen we haar stabiel.
 
-### Rotator 3
+## Rotator 3
 rotator panel #3 [image](https://s3.amazonaws.com/files.d20.io/images/172154366/L_igkChTfYS_KrM95kt4VQ/med.png?1603295669)
 
-#### Rood: midden
+### Rood: midden
 
 Well gaat dicht, kamer afgesloten, lichten gaan weer aan.
 Opent en sluit de put.
 
-#### Oranje: Rechts boven
+### Oranje: Rechts boven
 
 De kamer draait en er opent een poort zich voor ons.
 Trap naar beneden voor ons.
@@ -83,7 +83,7 @@ Fire elementals waren nodig om het te poweren. De cyber shards zijn stuk (elemen
 Glas is hetzelfde als dat in **Rose Quarry**.
 House d'Cannith heeft **Rose Quarry** als test plaats gebruikt. Glass is afkomst van het machine.
 
-### Conclusion of the Secret Lab
+## Conclusion of the Secret Lab
 
 We halen de moeder van Laura op bij de wolven.
 Daarna gaan we uit de mijnen en komen terug in de mourneland. Waar dikke grijze wolken de hemel bedekken en een eeuwige schaduw werpen over het land.

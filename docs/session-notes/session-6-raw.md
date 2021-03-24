@@ -5,11 +5,11 @@ parent: Session Notes
 nav_order: 6
 ---
 
-## Session 6 Raw Notes
+# Session 6 Raw Notes
 
-### Meanwhile in the Clenched fist
+## Meanwhile in the Clenched fist
 
-#### Portents
+### Portents
 
 | #              | Dice Roll |
 | :-: | :- |
@@ -36,14 +36,14 @@ De steen verdwijnt, eronder een kar met een Earth Elemental die in de grond zit 
 
 We stappen in de kar, de earth elemental beweegt de grond onder de kar, waardoor deze vooruit beweegt.
 
-### To Rose Quarry
+## To Rose Quarry
 
 8 à 9 uur travel time
 
 We komen dichter bij de *Mourneland* ~> we zien de "wall of mist" van nabij
 Een enorme muur van mist/rook waarin duidelijk herkenbaar gezichten in pijn uit voortkomen
 
-### Arrival in Rose Quarry
+## Arrival in Rose Quarry
 
 - Groeve (roze, rode steen)
 - Cyre Houses
@@ -70,7 +70,7 @@ Een enorme muur van mist/rook waarin duidelijk herkenbaar gezichten in pijn uit 
 - dwergen
 - verlaten?
 
-### Investigating the situation
+## Investigating the situation
 
 -> Ijs/Glas op de vloer?
 -> "kleine" skeletten komen onze kant op
@@ -102,7 +102,7 @@ Opvallend gebouw in het midden van het dorp: Tempel/Kerk & een ander groot gebou
 Veel necromancy
 Evocation op de vloer
 
-### Let's come up with a plan!
+## Let's come up with a plan!
 
 Rood Glass + **Zap** met embleem van de **Emerald Claw** (minor illusion)
 

@@ -5,14 +5,14 @@ parent: Session Notes
 nav_order: 13
 ---
 
-## Session 13 Raw Notes
+# Session 13 Raw Notes
 
 | #              | Dice Roll |
 | :-: | :- |
 | 1       | 1       |
 | 2      | 12       |
 
-### Vampire Hunting in Corranberg
+## Vampire Hunting in Corranberg
 
 We are leaving with an airship.
 High level member to attend the opening of the embassy.
@@ -26,7 +26,7 @@ Er is nog reinforcement.
 
 Will meet us tommorow morning where the airships will leave.
 
-### At the docks
+## At the docks
 
 De halfling die ons bediend had in de inn duikt op.
 **Garret** gaat hem ondervragen maar stoot hierbij op de wachters.
@@ -38,7 +38,7 @@ Na enig oponthoud kunnen we instappen bij het airship.
 
 To Corranberg!
 
-### On the airship
+## On the airship
 
 Suite is voor **Varrian**
 
@@ -68,7 +68,7 @@ The girl in the east, van d'cannith (wie bedoelt hij dan?)
 Can I ask you a serious question?
 Why do you support **Elaidrin** and **Yorlana**?
 
-### Ambush on the airship
+## Ambush on the airship
 
 **Callum** loopt naar buiten, "Mark of Making" in zijn nek ligt op.
 Zelfde mark ligt op op zijn zwaard.

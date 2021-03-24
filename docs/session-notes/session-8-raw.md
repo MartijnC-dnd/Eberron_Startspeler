@@ -5,9 +5,9 @@ parent: Session Notes
 nav_order: 8
 ---
 
-## Session 8 Raw Notes
+# Session 8 Raw Notes
 
-### At the edge of the Mourneland
+## At the edge of the Mourneland
 
 Een klein Cyren stadje dat platgebombardeerd was.
 Failin zet ons hier af.
@@ -34,7 +34,7 @@ Op weg naar **Old Margereth**
 
 I am **Peter**
 
-### Shop van Old Margereth
+## Shop van Old Margereth
 
 Veroeste wapens, degene die niet veroest zijn hangen vol met bloed.
 
@@ -88,7 +88,7 @@ Achterop het paard hing **Badum-Tss**
 
 Badum-Tss verkocht door slave traders.
 
-### Trying to get a horse
+## Trying to get a horse
 
 Buiten staat een jonge vrouw.
 "We would like to buy some horses."
@@ -128,7 +128,7 @@ Een foto van koppel:
 - Moeder (blond haar)
 - Blauwe ogen
 
-### Into the Mourneland we go
+## Into the Mourneland we go
 
 *The DM gets Happy*
 
@@ -206,7 +206,7 @@ Gebruik van Healing Potions kan wel.
 
 Daiken legt **Badum** achterop het paard.
 
-### The Journey to Whitehearth
+## The Journey to Whitehearth
 
 Onderweg naar Whitehearth lijken er 2 grote Acid Bubbels met elkaar te spelen.
 

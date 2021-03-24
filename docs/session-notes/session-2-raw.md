@@ -5,7 +5,7 @@ parent: Session Notes
 nav_order: 2
 ---
 
-## Session 2 Raw Notes
+# Session 2 Raw Notes
 
 Current location: Sewer 213, aftermath van gevecht.
 Badum -> "Breng Galleia naar boven en stel haar veilig"
@@ -15,7 +15,7 @@ Verder uit de sewers: **Britta**
 Artificer met een mech battle pet.
 (replacement voor Galleia?)
 
-### Locked Door
+## Locked Door
 
 Door ~> Detect Magic ~> Abberation Magic  (same sigil as book)
 
@@ -25,7 +25,7 @@ Door ~> Detect Magic ~> Abberation Magic  (same sigil as book)
 
 Waterval ~> Ruines van verlaten Stad
 
-### Ruins of Durasharn
+## Ruins of Durasharn
 
 - Afgebroken, oorlog?
   - Oorlog van de mark
@@ -33,7 +33,7 @@ Waterval ~> Ruines van verlaten Stad
 - Aftermath van 1 Ebberrant Mark die beast mode ging
 - Actueel (not niet geaccepteerd)
 
-### Statue of Onatar (resting place)
+## Statue of Onatar (resting place)
 Vervaagde muurtekeningen
 Prestigidation (to restore them)
 
@@ -47,7 +47,7 @@ Prestigidation (to restore them)
 </div>  
 - Sticky liquid (seems to be healing)
 
-### Home of the Artificer
+## Home of the Artificer
 Gebouw duidelijk nog in 'ok' staat, gat in het dak
 Het oude symbool van **House d'Cannith** afgebeeld
 --> Deuren volledig vastgeroest!
@@ -79,7 +79,7 @@ Pentagon (5)
     - Meeste in the **Mournland**
 - Schema (Adamantine plate) ~> Steenvormig
 
-### Ambush
+## Ambush
 Bij het buitenkomen ~> Ambush door Slasher!
 
 <div class="text-red-000">
@@ -91,7 +91,7 @@ die wil het schema ... TPK? (Very close)
 Net overleefd, **Zap** unconcious
 Buiten de sewers meet-up met Badum en Galleia ~> 3 Bebloede Dode Goblins (degene die ons de ingang van de sewer hebben getoond) Leden van de sewer clan
 
-### Broken Anvil Inn
+## Broken Anvil Inn
 Terug naar de boken anvill in voor het plan aan lady Elaidrin te geven.
 **Lady Elaidrin**
 Bedankt ons voor de moeite, wil ons belonen.
@@ -105,7 +105,7 @@ Meet **Yorlana** in **House Yorasco**
 
 **Voor het weggaan heeft Orwin nog een "ruwe" kopie van het schema gemaakt**
 
-### House Yorasco
+## House Yorasco
 Bij het binnekomen worden we aangesproken en zegt Yorlana:
 "Als Merex het zo wil"
 ... Heel fishy!
@@ -121,7 +121,7 @@ ZEER GEVAARLIJK
 Met heel veel moeite lukt de resurrection:
 - De halfling met een *greater* mark of healing ~> in pain van de moeite
 
-### Big plot twist
+## Big plot twist
 Galleia komt terug to leven, bij het zien van het leven dat wederkeert aan Galleia gaat **Zap** (open? :-O).
 Uit de warforged komt een kleine blauwharige gnome gewandeld en geeft Galleia een omhelzing
 ==> Lees brief van Sam

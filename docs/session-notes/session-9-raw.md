@@ -5,9 +5,9 @@ parent: Session Notes
 nav_order: 9
 ---
 
-## Session 9 Raw Notes
+# Session 9 Raw Notes
 
-### Face to Face with a Corpse Crab
+## Face to Face with a Corpse Crab
 
 | #              | Dice Roll |
 | :-: | :- |
@@ -41,7 +41,7 @@ Ook van de emerald claw, worshipping the blood of vol.
 
 Interesse in **Galleia**
 
-### Arrival in Whitehearth
+## Arrival in Whitehearth
 
 Grootste gedeelte van de huizen is verlaten.
 In totaal van de huizen zien we iemand binnen zitten?
@@ -60,7 +60,7 @@ Ze vind boven in een slaapkamer een lichaam van 1 man (donkerbruin haar)
 
 Kinderkamer is leeg.
 
-### Into the mines (of moria)
+## Into the mines (of moria)
 
 We komen op een doodlopend eind, we vinden een hatch!
 Die is nog in goede staat en een kleine blauwe opening.
@@ -74,7 +74,7 @@ Warding Spells op de hatch zitten. (zelfde als op de key charm)
 
 We vinden de juiste hatch. We dalen verder af in de mijn
 
-### Down the hatch we go!
+## Down the hatch we go!
 
 We komen onder aan en vinden een controle paneel.
 Er hangen everbright lanterns aan het plafond, maar die branden duidelijk minder fel dan de onze.
@@ -83,14 +83,14 @@ Ik gebruik de key charm en steek hem in ee nvan de openingen op het bedieningspa
 De kamer roteert en **Badum** en **Lily** vallen prone op de grond.
 bedieningspaneel bevat Bruine, Groene en Blauwe keyholes.
 
-#### Rechter blauwe keyhole:
+### Rechter blauwe keyhole:
   Een muur gaat open aan de noordkant van de kamer. (voor ons)
   We komen in een kamer met een hele hoop stoffen (kledij, lakens, ...)
   De stoffen worden gevouwen, opgepakt, in een ander machine gestoken en worden weer weg gelegd...
   Terwijl ik detect magic cast, zie ik een vreemde aura (conjuration magic)
 
 
-#### Linker blauwe keyhole:
+### Linker blauwe keyhole:
   Een muur gaat open aan de noordkant van de kamer. (voor ons)
   We komen in een soort van bibliotheek!
   Er ligt een vrouw dood met een spellscroll in haar handen:
@@ -98,10 +98,10 @@ bedieningspaneel bevat Bruine, Groene en Blauwe keyholes.
   Dit is de research facility, we krijgen inzicht in een groot aantal projecten waar ze mee bezig waren.
   Vooral wapen voor de oorlog
 
-#### Top-Rechts blauwe keyhole:
-  
+### Top-Rechts blauwe keyhole:
 
-#### Top-Links blauwe keyhole:
+
+### Top-Links blauwe keyhole:
   Een muur gaat open aan de noordkant van de kamer. (voor ons)
   Langere gang dan de andere kamers
   Aan de linker kant komen we een WC tegen (**Lily** besluit om te plassen)
@@ -148,6 +148,6 @@ Chain shirt
 Armor of gleaming
 Schild met het seal van d'Cannith
 
-#### We end at the wardrobe
+### We end at the wardrobe
 
 **End of Session**

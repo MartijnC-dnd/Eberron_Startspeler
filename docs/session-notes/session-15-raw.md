@@ -5,9 +5,9 @@ parent: Session Notes
 nav_order: 15
 ---
 
-## Session 15 Raw Notes
+# Session 15 Raw Notes
 
-### Recap:
+## Recap:
 
 Het begon allemaal met de crash van het airship in **Zillargo**.
 Tijdens het zoeken naar overlevenden, bevrijdden we 2 air elementals.
@@ -40,8 +40,6 @@ Na het verkopen van mijn werk kom ik samen met **Tash** aan bij de Inn.
 We zijn vroeger samen reisgezellen geweest.
 Hij heeft mij beschermd
 
-
-##
 
 ## Wat is onze quest eigenlijk?
 

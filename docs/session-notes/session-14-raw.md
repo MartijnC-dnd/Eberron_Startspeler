@@ -5,14 +5,14 @@ parent: Session Notes
 nav_order: 14
 ---
 
-## Session 14 Raw Notes
+# Session 14 Raw Notes
 
 | #              | Dice Roll |
 | :-: | :- |
 | ~~1~~       | ~~1~~       |
 | 2      | 12       |
 
-### Black Hawk Down
+## Black Hawk Down
 
 Het airship is momenteel naar beneden aan het vallen, de motors zijn vernietigd.
 De vijanden zijn allemaal ofwel dood, ofwel gevlucht.
@@ -27,7 +27,7 @@ We zweven naar de kant om niet door het schip mee gesleurd te worden.
 
 Moest er nog iemand uit het schip komen, probeer ik mensen te levitaten.
 
-#### Het Airship stort neer
+### Het Airship stort neer
 
 We landen veilig naast het airship.
 
@@ -53,7 +53,7 @@ Na het verslaan van 2 Air Elementals keren we terug naar **Koranberg**.
 **Argo** heeft het leven gelaten in het gevecht.
 Een Gnome Artificer is gestorven, de gewonde is meegenomen door **Zap**.
 
-### Koranberg
+## Koranberg
 
 Bij het aankomen wil **Lily** de lichamen in de Library gaan tonen aan haar grootmoeder.
 Om een statement te maken.
@@ -93,7 +93,7 @@ Dark side?
 
 We buigen ons hoofd in stilte en reflecteren op wat er net gebeurd is.
 
-##
+#
 
 **Corius**
 

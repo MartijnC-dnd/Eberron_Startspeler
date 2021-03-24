@@ -5,7 +5,7 @@ parent: Session Notes
 nav_order: 1
 ---
 
-## Session 1 Raw Notes
+# Session 1 Raw Notes
 
 ### Intro
 Sharn Grootste Stad v. Khorvaire

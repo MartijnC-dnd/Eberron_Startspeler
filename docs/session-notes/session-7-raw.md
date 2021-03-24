@@ -5,16 +5,16 @@ parent: Session Notes
 nav_order: 7
 ---
 
-## Session 7 Raw Notes
+# Session 7 Raw Notes
 
-### The Aftermath
+## The Aftermath
 
 **Failin** brengt ons ver weg van Rose Quarry in veiligheid.
 (10-15min rijden, 1h wandelen)
 
 Long rest tot 8u -> zon komt op!
 
-#### Portents
+### Portents
 
 | #              | Dice Roll |
 | :-: | :- |
@@ -27,7 +27,7 @@ Long rest tot 8u -> zon komt op!
 
 We stuiten op een skeleton patrouille
 
-### Gobble Gobble
+## Gobble Gobble
 
 Plan: sneaken rond het dorp mbv "kalkoenbommen" (Magical Tinkering)
 

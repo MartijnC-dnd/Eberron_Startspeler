@@ -5,7 +5,7 @@ parent: Session Notes
 nav_order: 3
 ---
 
-## Session 3 Raw Notes
+# Session 3 Raw Notes
 
 Tijdens de tijd tussen de resurrection en de nieuwe missie verblijven we in de *Message Station*
 Daar worden we geholpen door een vrouwlijke gnome die nog nieuw is, maar wel ijverig aan het werk is.
@@ -21,7 +21,7 @@ Tijdens het eten kom ik tot een akkoord met **Lily** dat ze haar grootmoeder op 
 Ze stuurt het bericht via het message station.
 Ikzelf stuur ook een bericht ter bevestiging en dat ik er alles aan zal doen om haar in leven te houden.
 
-### Downtime Activities
+## Downtime Activities
 
 - Galleia :
 Op zoek naar dingen om te doen stoot ze tegen een warforged die een feest viert ter herdenking van de opstand van de warforged.
@@ -42,7 +42,7 @@ Komt er een tweede aan?
 
 *The numbers, Mason, what do they mean?*
 
-### Ambush op de message Station
+## Ambush op de message Station
 Bij het aankomen bij de message station ligt alles in puin:
 - Kobold voetsporen
 - Voetsporen zijn nat
@@ -57,11 +57,11 @@ De receptioniste leeft nog (nauwlijks) kan ons volgende zaken vertellen:
 Na enig aandringen kan ze ons ook nog zeggen:
 - Message voor mij (Orwin) van **Lady Elaidrin** ~> **Gestolen!**
 
-### Encounter with an owl
+## Encounter with an owl
 Terwijl we op weg/zoek zijn naar **Lady Elaidrin** komt er een uil op ons af en overhandigt ons een brief.
 Hierin staat dat het message station niet meer veilig is en we op weg moeten naar de **Broken Anvil Inn**.
 
-### Back to the inn
+## Back to the inn
 **Lady Elaidrin** in de **Broken Anvil Inn**
 Spreekt snel en gehaast, alsof het niet veilig is.
 Zegt ons dat we snel moeten handelen.
@@ -110,19 +110,19 @@ Contents van de tas:
   - 5 Torches
   - 3 Zakken (Sacks)
 
-### Must research the letter
+## Must research the letter
 In de brief staan allerlei termen en zaken die we in de universiteit proberen uit te klaren.
-#### Jorlanna d'Cannith
+### Jorlanna d'Cannith
 - Baas van Elaidrin
 - Link met Merex?
 
-#### Whiteheart
+### Whiteheart
 ... Low investigation check :(
 
-#### Rose Quarry
+### Rose Quarry
 ... Low investigation check :(
 
-#### Rhukaan Draal
+### Rhukaan Draal
 - Trade Hub
 - Grootste Stad
 - Cosmopolitisch (mix of races)
@@ -134,7 +134,7 @@ In de brief staan allerlei termen en zaken die we in de universiteit proberen ui
 Lily koopt een pearl voor [Identify](https://www.dndbeyond.com/spells/identify) te casten.
 **!! Important Lore: De juwelierster in Upper Sharn is een Half-Elf genaamd Ulthara !!**
 
-### Arriving at the docks
+## Arriving at the docks
 Bij het aankomen aan het dock melden we ons in het seinhuis.
 Daar staat een norse man tegen zijn zin te werken.
 Hij is fixated op **Lily** haar warforged suit. Wil het zelfs kopen.
@@ -153,7 +153,7 @@ Die afgunst benut en op ingspeeld.
 
 ==> Contact gegevens uitgewisseld, als ze ooit artefacten vinden die van nut zijn, wil House d'Sivis hier wel intersesse in tonen en voor betalen.
 
-### Boarding the Dragon's Breath
+## Boarding the Dragon's Breath
 
 Bij het boarden van de Dragons's Breath worden we begroet door de kapitein.
 De boot zelf wordt in twee gesplitst door een "sloot" van lopend water.

@@ -5,9 +5,9 @@ parent: Session Notes
 nav_order: 5
 ---
 
-## Session 5 Raw Notes
+# Session 5 Raw Notes
 
-### Final words of the captain
+## Final words of the captain
 
 Ze bedankt ons voor de hulp, hoewel ze triestig is over het verlies van de crew.
 Ze verstopt ons in de laadruimtes tot we aanmeren bij Korranberg.
@@ -32,7 +32,7 @@ Ze weet niks van de skeletten.
 </div>
 -> 12 (ze lijkt de waarheid te vertellen en is zelf ook geschokt door de aanval)
 
-### Making port in Korranberg
+## Making port in Korranberg
 
 Praktisch iedereen stapt af hier.
 Ze nemen allemaal hun baggage.
@@ -51,12 +51,12 @@ De diplomate komt ter redding en helpt ons eruit door te zeggen dat de informati
 | 1      | 12      |
 | 2       | 1       |
 
-### Journey to Rhukaan Draal
+## Journey to Rhukaan Draal
 
 In de verte over de ocean zien we de mist van de Mourneland, een hoge muur van mist waar herkenbare gezichten in te zien zijn.
 De kapitein maakt ons duidelijk dat we er niks mee te maken hebben en we binnen moeten blijven.
 
-### Arrival in Rhukaan Draal
+## Arrival in Rhukaan Draal
 
 De haven lijkt heel oud, ze ziet er anders uit dan gebouwen die verderop staan.
 Versierde marmeren gebouwen, maar ook houten huizen, tenten, stenen houden.
@@ -86,7 +86,7 @@ Natural 1 :-(
 **Badum Tss** ziet wel dat er mensen geanimeerd naar een poster zijn aan het kijken.
 **Galleia** pakt de poster af.
 
-#### Poster
+### Poster
 Man van middelbare leeftijd, donkerblond haar, iemand die al wat heeft meegemaakt.
 misdaadschets?
 Naam op de poster: Failin (in het Goblin)
@@ -108,7 +108,7 @@ Hij krijgt meteen als taak een bordspel "conquerer" te gaan kopen, omdat **Henry
 
 **Galleia**, **Badum** en **Orwin** blijven in het huis, veilig.
 
-### Meeting the connection
+## Meeting the connection
 
 **Henry** en **Zap** gaan naar **the bloody market**, voor dat ze arriveren horen ze geroep en vechtgeluiden afkomstig van de markt.
 **Old Went** en **Henry** groeten mekaar alsof ze mekaar al jaren kennen en zijn vriendelijk tegen mekaar.
@@ -156,7 +156,7 @@ Hij ontdekt dat er voetstappen in de kamer te vinden zijn.
 Hij had het niet voor ons op slot gedaan, maar voor zichzelf.
 Hij jaagt ons uit zijn huis (terecht)
 
-### Meeting with Failin
+## Meeting with Failin
 
 We komen (uiteindelijk) aan bij **the clenched fist**.
 Binnen is het ontzettend druk.
