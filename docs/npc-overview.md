@@ -29,3 +29,5 @@ has_children: false
 | Neya ir'krell | Human | Female | Korranberg, Zilargo | Aundarian ambassador |
 | Saergaent Dolom | Dwarf | Male | Sharn, Breland | Sharn watch |
 | Petres d’Orien | Human | Male | Korranberg, Zilargo | Leader of the Guards Trainstation |
+| Meena | Human | Female | Korranberg, Zilargo | Guard of Neya? |
+| Evyn d'Sivis | Gnome | Female | Lightning Rail richting Sharn | Oude leerling van mij, aangesteld tot cartographer van Sharn |
