@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Orwin Haskal d'Sivis"
+title: "🤷 Orwin Haskal d'Sivis"
 parent: Adventuring Party
 nav_order: 8
 ---
@@ -49,3 +49,8 @@ His divination magic comes from worshiping and seeking advice from:
 *Knowledge, law, magic, power, spirit, oracle, spell*
 
 **Aureon** is the legitimate neutral deity of knowledge and magic. He is the brother of **Onatar**, the husband of **Boldrei** and the origin of the **Shadow**. His domains are Knowledge, Law and Magic, and his weapon of choice is the Quartermaster Staff.
+
+## Ending
+
+Died to **Grilsha** by lightning bolt.
+Got resurrected, decided to stop the quest due to hardship and goes to report back to House d'Sivis.

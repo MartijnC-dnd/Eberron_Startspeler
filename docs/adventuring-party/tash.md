@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Tash Valakhad"
+title: "🤷 Tash Valakhad"
 parent: Adventuring Party
 nav_order: 9
 ---
@@ -12,3 +12,8 @@ nav_order: 9
 ![full_art](img/tash.jpg){:width="300px"}
 
 ## Appearance Details
+
+## Ending
+
+Died to **Grilsha** by lightning bolt.
+Got resurrected, decided to stop the quest due to hardship and goes to report back to House d'Sivis.
