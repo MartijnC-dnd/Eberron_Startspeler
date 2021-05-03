@@ -2,7 +2,7 @@
 layout: default
 title: "🤷 Tash Valakhad"
 parent: Adventuring Party
-nav_order: 9
+nav_order: 10
 ---
 
 # Tash Valakhad

@@ -2,7 +2,7 @@
 layout: default
 title: "🤷 Henry Terunk"
 parent: Adventuring Party
-nav_order: 6
+nav_order: 7
 ---
 
 # Henry Terunk

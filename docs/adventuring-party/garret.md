@@ -2,7 +2,7 @@
 layout: default
 title: "🤷 Garret"
 parent: Adventuring Party
-nav_order: 5
+nav_order: 6
 ---
 
 # Garret

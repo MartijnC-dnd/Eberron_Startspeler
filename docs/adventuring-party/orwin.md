@@ -2,7 +2,7 @@
 layout: default
 title: "🤷 Orwin Haskal d'Sivis"
 parent: Adventuring Party
-nav_order: 8
+nav_order: 9
 ---
 
 # Orwin Haskal d'Sivis
