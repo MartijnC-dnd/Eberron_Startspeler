@@ -50,16 +50,43 @@ It’s not stealing if I need it more than someone else.
 
 ## Profession
 
-A **cartographer**, who tries to map the world after the *Last War* / *Day of Mourning*.  
-Since the house **d'Sivis** specializes in communication and is actually also a bit of a notary, it is a task for them to check that all deeds are not yet "OK" and whether changes need to be made.
+Thief / Assassin for hire. Potentially can get away as a spy or a court jester.
 
-## What did i do during the last war?
+## What did I do during the last war?
 
+During the last war I served as a spy for **House Phiarlan**. I infiltrated several factions and providing all of them information about their rivals. I found out that all the houses are the same. None of them can be trusted they all have hidden agendas.  
+During one of my missions I was held captive. Luckily I was rescued by house agents of **House Cannith**. Ever since they made several requests for my services.
+I have no allegiance to a specific House, although **House Phiarlan** and **House Cannith** do provide me with more jobs than the others.
 
-
-## How did I get called into action
+## How did I get called into action?
 
 Enig idee **Sam**? Ik ben een thief/assassin for hire dus ik neem aan gewoon ingehuurd door **Elaydren d'Cannith**?
+
+## How did my dragonmark manifest?
+
+During my childhood, **Gennal** and me tried to do a jewel heist in the city.  
+During the heist we were about to get caught overwhelmed with anxiety and stress, my dragonmark formed and allowed me to become completely invisible right in front of the shopkeepers eyes.  
+We managed to pull of the heists but my acts did not go unnoticed. Shortly after I was contacted to join **House Phiarlan**.
+
+## Family
+
+I never knew my parents.  
+I have a drawing of what they told me are my parents. (**Lucian** and **Rayla Holimion**)
+
+![parents](img/aeren_parents.jpg)
+
+Grew up on the streets together with other orphans:
+- **Bethrynna Caerdonel**
+>Neutral Evil Elf Wizard that works as an Adventurer. She is alive and quite successful.
+- **Gennal Mellerelel**
+> Neutral Elf Rogue that works as a Thief. He is dead, killed during a heist.
+He thaught me to survive on the streets. Stealing food, putting up shows, begging. We even went on some heists together. I later found out he was killed during a heist when I left the citry already.
+- **Theirastra Fasharash**
+> Neutral Elf Ranger that works as a forest keeper. She is alive, but doing poorly due to injury.
+- **Aelar Mellerelel**
+> Lawful Good Elf Cleric that works as a Priest. He is alive and well.
+- **Laucian Cithreth**
+> Neutral Good Elf Sorcerer that works as an Academic. He is alive and well.
 
 ## Events (draft moet ik nog verder uitwerken)
 
@@ -77,17 +104,26 @@ I got caught while my companions made it out. The guards tortured me for informa
 
 My lover disappeared without a trace. I have been looking (albeit passively) for that person ever since.
 
-### Made an enemy
-
-Bundrigo Hilltopple, Neutral Halfling that works as a Innkeeper. He is alive and quite successful.  
-I caused several bar fights in his inn while staying there.
-
 ### Tragedy after the last war
 
 I was imprisoned for a crime you didn't commit and spent 2 years in jail.  
 They charged me with murder of a guard in a jewelry store. It was one of the other thiefs that did it.  
 They all pinned it on me.
 
+### Made a friend
+
+Mary Alton, Neutral Good Human Druid that works as an Artisan. She is alive and well.  
+Always had a place for me to stay when I visited her. Runs a herb/flower shop.
+
+### Made an enemy
+
+Bundrigo Hilltopple, Neutral Halfling that works as a Innkeeper. He is alive and quite successful.  
+I caused several bar fights in his inn while staying there.
+
+### Made an enemy
+
+Soveliss Xiloshem, Neutral Elf Barbarian that works as an Artisan (Blacksmith). He is alive, but I haven't heard from him in a while.  
+I once stole daggers from his weapon shop. He swore to take his revenge.
 
 
 Links:
