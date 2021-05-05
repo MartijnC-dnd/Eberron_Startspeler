@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Session 19 (Session 0)"
+parent: Session Notes
 nav_order: 19
 has_children: false
-parent: Session Notes
 ---
 
-# Session 18 Raw Notes
+# Session 19 (Session 0) Raw Notes
