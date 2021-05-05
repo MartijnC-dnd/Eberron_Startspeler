@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Beren Holimion"
-nav_order: 1
+nav_order: 4
 has_children: false
 nav_exclude: true
 ---
