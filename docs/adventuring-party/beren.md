@@ -10,7 +10,7 @@ nav_exclude: true
 
 [DnDbeyond.com link](https://www.dndbeyond.com/characters/48920994)
 
-![full_art](img/aeren.jpg){:width="300px"}
+![full_art](img/beren.jpg){:width="300px"}
 
 ![dragon_mark](img/aeren_mark.png)
 
