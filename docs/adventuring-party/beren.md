@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Beren Holimion"
-nav_order: 4
 parent: Adventuring Party
 has_children: false
 ---

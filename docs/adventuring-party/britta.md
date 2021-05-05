@@ -2,7 +2,6 @@
 layout: default
 title: "🤷 Britta"
 parent: Adventuring Party
-nav_order: 5
 ---
 
 # Britta
