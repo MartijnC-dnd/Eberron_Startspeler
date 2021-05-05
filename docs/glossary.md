@@ -1,6 +1,6 @@
 ---
 layout: default
-title: title
+title: "Glossary"
 nav_order: 5
 has_children: false
 ---
