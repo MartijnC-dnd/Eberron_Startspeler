@@ -84,6 +84,7 @@ Aangezien we niet bij de aanvaller kunnen, casten **Beren** en ik invisibility.
 De kamer van **Orwin** en **Tash** lijkt haastig opgeruimd en leeggemaakt te zijn. Alsof er net nog iemand is geweest zonet.
 
 Summary of the fight:
+
 ![darkness](img/19_darkness.PNG)
 
 **End of the Session**
