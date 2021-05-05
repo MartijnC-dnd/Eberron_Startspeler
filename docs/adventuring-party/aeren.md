@@ -71,7 +71,7 @@ We managed to pull of the heists but my acts did not go unnoticed. Shortly after
 I never knew my parents.  
 I have a drawing of what they told me are my parents. (**Lucian** and **Rayla Holimion**)
 
-![parents](img/aeren_parents.jpg)
+![parents](img/aeren_parents.jpg){:width="300px"}
 
 ## Friends
 
