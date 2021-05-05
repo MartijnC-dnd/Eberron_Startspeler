@@ -2,6 +2,7 @@
 layout: default
 title: "Aeren Holimion"
 nav_order: 1
+parent: Adventuring Party
 has_children: false
 ---
 
