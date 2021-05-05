@@ -1,7 +1,6 @@
 ---
 layout: default
 title: NPC Overview
-nav_order: 4
 has_children: false
 ---
 
