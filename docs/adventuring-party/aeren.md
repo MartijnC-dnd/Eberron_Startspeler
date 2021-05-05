@@ -75,6 +75,8 @@ I have a drawing of what they told me are my parents. (**Lucian** and **Rayla Ho
 
 ![parents](img/aeren_parents.jpg)
 
+## Friends
+
 Grew up on the streets together with other orphans:
 - **Bethrynna Caerdonel**
 >Neutral Evil Elf Wizard that works as an Adventurer. She is alive and quite successful.
