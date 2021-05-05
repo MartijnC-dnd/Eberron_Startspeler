@@ -11,3 +11,12 @@ parent: Adventuring Party
 ![full_art](img/lily.jpeg){:width="300px"}
 
 ## Appearance Details
+
+- Alignment: Neutral Good
+- Gender: Female
+- Eyes: Blue-Grey
+- Size: Small
+- Age: 17
+- Faith: The sovereign hosts
+- Hair: Dark Blue lightblue ombre
+- Home: Korranberg
