@@ -3,7 +3,6 @@ layout: default
 title: "Aeren Holimion"
 nav_order: 1
 has_children: false
-nav_exclude: true
 ---
 
 # Aeren Holimion (Diamonddew)
@@ -26,8 +25,7 @@ nav_exclude: true
 - Faith: None (I only believe in my own actions and determine my own destiny)
 - Hair: Light Brown (well kept full beard)
 - Skin: Tan
-
-- Home: No real home, grew up in the streets of ... (**Sam een idee?**)
+- Home: No real home, grew up in the streets of **Sharn**
 
 ## Characteristics
 
@@ -79,7 +77,7 @@ I have a drawing of what they told me are my parents. (**Lucian** and **Rayla Ho
 
 Grew up on the streets together with other orphans:
 - **Bethrynna Caerdonel**
->Neutral Evil Elf Wizard that works as an Adventurer. She is alive and quite successful.
+> Neutral Evil Elf Wizard that works as an Adventurer. She is alive and quite successful.
 - **Gennal Mellerelel**
 > Neutral Elf Rogue that works as a Thief. He is dead, killed during a heist.
 He thaught me to survive on the streets. Stealing food, putting up shows, begging. We even went on some heists together. I later found out he was killed during a heist when I left the citry already.
@@ -90,7 +88,7 @@ He thaught me to survive on the streets. Stealing food, putting up shows, beggin
 - **Laucian Cithreth**
 > Neutral Good Elf Sorcerer that works as an Academic. He is alive and well.
 
-## Events (draft moet ik nog verder uitwerken)
+## Events
 
 ### Started dating.
 
