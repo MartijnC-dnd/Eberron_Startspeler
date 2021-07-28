@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Aeren Holimion"
+title: "💀 Aeren Holimion"
 
 parent: Adventuring Party
 has_children: false
